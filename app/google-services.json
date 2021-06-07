@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922217373980",
+    "project_id": "ladm-u3-firebasecloudfirestore",
+    "storage_bucket": "ladm-u3-firebasecloudfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922217373980:android:29c3e12b61bdca67e6dad9",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica2_bdfirebasecloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922217373980-3qa2rm7eiq6rmqptc57edci9esgt1rns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBgaPFIPyMmiPrrS1Xu5dYdaG7NhG_lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922217373980-3qa2rm7eiq6rmqptc57edci9esgt1rns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
